@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "310953803450",
+    "project_id": "fir-task-de5a1",
+    "storage_bucket": "fir-task-de5a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310953803450:android:c80663ce810a957d020c83",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firbase_fabricjs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310953803450-bi5jp4f7hl8i6ir3chdhtabuiif5ahkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnEEN-paeVw_Xtq6UCLWaSW3gJOf1xIUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310953803450-bi5jp4f7hl8i6ir3chdhtabuiif5ahkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
